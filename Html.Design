@@ -1,0 +1,33 @@
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Templeton Designs</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+	<body text="#ffffff" link="##800080" vlink="#800080" alink="#800080">
+		<img src="https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/s150x150/50913194_557076648132465_1630049726462164992_n.jpg?_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_ohc=L30UNwih-X4AX-4FQwD&oh=61e38ca2a7b0764139d9a02394fdd168&oe=5EEDA25D" alt=Templeton-Designs-logo class="center">
+  <br>
+ <img src="https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c180.0.720.720a/s640x640/47582616_537729650060992_614799005944560675_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=l7X3TWh4yskAX_RYgMm&oh=0fa7a990db43d27e50a0e9a17267ffd8&oe=5ECDD465" alt=Jeff-and-his-Family class="center"> 
+  <a href="#Td"><p style="text-align:center">To Design Options</p></a>
+  <p class="TD"><em>Jeff and his family</em></p>  <h2 class="TD">Founding and 
+  About</h2>
+ <h3 class="TD">Founding</h3>
+  <p class="TD">Templeton Designs was founded after Jeff Templeton(Owner/Head designer)had started designing <br>free logos for his gym and slowly started his company. He started designing in 2010 and started his Instagram in 2019.  
+  <a href="https://verdantfit.com/articles/trainer/jeff-templeton/"><p style="text-align:center">more info/photo</p></a>
+  </p> </p>
+  <h2 class="TD">About</h2>
+    <script src="script.js"></script>
+  <p class="TD">Jeff enjoys many things such as<br><br>Crossfit<br>Playing NBA2K with his youngest son<br>Watching Basketball<br>learning about our Lord<br>and more<br><br>Jeff will be happy to make your Designs/Logos, T-Shirts,Hats and Sweat Shits. Hope you enjoy his designs  </p>
+  <p id="Td">To options <br>|<br>|<br>v</p>
+  <a href="https://www.instagram.com/templetondesigns/?hl=en"><p style="text-align:center">Logos/T-Shirts/Hats/Sweat Shirts</p></a>
+  <p class="TD">If link doesnt work copy and paste this into your browser<br><br> https://www.instagram.com/templetondesigns/?hl=en<br><br>to go to Jeffs design Instagram<br>Message him in Instagram message (only works if you have a account)and ask for a Logo/T-Shirt/Hat/Sweat Shirt.</p> 
+  <h3 class="TD">Logos</h3>
+  <p class="TD">Describe what you want or scetch out you own logo and send it to him. </p>
+ 
+  
+
+  </body>
+</html>
